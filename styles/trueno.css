@@ -1,0 +1,25 @@
+body{
+    background-color: #3A3B3C ;
+    color: #E4E6EB;
+    font-size: 26px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+h1{
+    text-align: center;
+}
+#kiwi,#kiwi:visited{
+    color: grey;
+}
+#enlace{
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+.listita{
+    color: #E4E6EB;
+}
+
