@@ -1,0 +1,18 @@
+body{
+    background-color: #3A3B3C ;
+    color: #E4E6EB;
+    font-size: 26px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+}
+img{
+    max-width: 40%;
+    height: auto;
+}
+a,a:visited{
+    color: aqua;
+}
+blockquote{
+    text-align: justify;
+}
